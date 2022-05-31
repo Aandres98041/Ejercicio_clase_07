@@ -1,0 +1,25 @@
+.encabezados {
+    background-color:#C4C4C4 ;
+    color: #005677 ;
+}
+.parrafonegritafechas {
+    font-weight: bold;
+    
+}
+.parrafonegritacursivas {
+    font-style: italic;
+    font-weight: bold;
+}
+.footer{
+    align-self: center;
+    background-color: #005677;
+    color: #FFFFFF;
+    text-align: center;
+}
+.header{
+    text-align: center;
+    
+}
+.imagen{
+    background-color:  #E6E6E6;
+}
